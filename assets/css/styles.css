@@ -1,0 +1,37 @@
+/* !FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Poppins:wght@300;400&display=swap');
+/* !BASE STYLES/RESET */
+
+:root{
+    --light-color: #f3f3fe;
+    --dark-color: #363636;
+    --border-top-color: rgba(0,0,0,.1);
+    --link-hover-color: rgba(255,255,255,.2);
+    --title-font-family: 'Playfair Display', 'serif';
+    --body-font-family: 'Poppins', 'sans-serif';
+    --container-padding: 1.5rem;
+    --section-vertical-spacing: 8rem;
+}
+/* 
+?RADIAL GRADIENT
+?background: radial-gradient(50% 50% at 50% 50%, rgba(255, 101, 118, .08) 0%, rgba(255, 101, 118, 0) 100%); 
+*/
+/* !REUSABLE CLASSES */
+
+/* !HEADER */
+
+/* !JAVASCRIPT STYLES */
+
+/* !HERO STYLES*/
+
+/* !ABOUT ME STYLES */
+
+/* !PORTFOLIO STYLES */
+
+/* !CONTACT STYLES */
+
+/* !FOOTER STYLES */
+
+/* !SCROLLBAR */
+
+/* !MEDIA QUERIES */
